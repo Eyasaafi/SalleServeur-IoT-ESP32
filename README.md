@@ -7,5 +7,5 @@ Ce projet vise à améliorer la sécurité et la maintenance préventive des env
 <img width="1364" height="612" alt="4(1)" src="https://github.com/user-attachments/assets/e2483ef1-b06c-44f6-bf58-4a3ac31afa10" />
 <img width="851" height="638" alt="1" src="https://github.com/user-attachments/assets/8545ba3d-9843-474b-896b-bac716c9f1d2" />
 
-**Auteur :** Eya Saafi — @Eyasaafi
+  Eya Saafi — @Eyasaafi
 **Année universitaire :** 2024-2025  
